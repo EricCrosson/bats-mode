@@ -1,8 +1,9 @@
 ;;; bats-mode.el --- Emacs mode for editing and running Bats tests
 
 ;; Author: Doug MacEachern
-;; URL: https://github.com/dougm/bats-mode
-;; Version: 0.1.0
+;; Maintainer: Eric Crosson
+;; URL: https://github.com/EricCrosson/bats-mode
+;; Version: 1.0.0
 ;; Keywords: bats, tests
 
 ;; This program is free software; you can redistribute it and/or
